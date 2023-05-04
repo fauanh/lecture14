@@ -1,2 +1,2 @@
-# text file
-.md
+# Exclude the file readme.txt in the root of the project 
+/README.md
